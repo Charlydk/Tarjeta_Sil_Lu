@@ -43,7 +43,7 @@ header{
     align-items: center;
     text-align: center;
     /*background: radial-gradient(circle, rgb(76, 77, 78) 19%, rgb(131, 136, 139) 50%, rgb(177, 179, 182) 76%);*/
-    background-image: url("../img/fondo1.png");
+    background-image: url("../img/fondo_final4.jpg");
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover; 
@@ -73,7 +73,7 @@ header img {
     height: 53px;
     font-style: normal;
     font-weight: 700;
-    font-size: 5rem;
+    font-size: 5.5rem;
     line-height: 2.6rem;
     color: rgb(177, 160, 11);
     /* text-shadow: -2px -1px 13px black; */
@@ -85,7 +85,7 @@ header img {
 
 .header--title-container p{
     margin-top: 5px;
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: 500px;
     line-height: 1.8rem;
     color: rgb(0, 0, 0);
