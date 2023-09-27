@@ -222,7 +222,7 @@ h2{
     height: auto;
     padding: 20px 10px;
     margin-top: 119rem;
-    background-color: rgb(209, 216, 209);
+    background-color: rgb(178, 192, 178);
 }
 
 .info-detail--title h2{
@@ -324,7 +324,7 @@ h2{
     height: auto;
     padding: 20px 10px;
     margin-top: 347rem;
-    background-color: rgb(157, 168, 157);
+    background-color: rgb(178, 192, 178);
 }
 
 
@@ -374,7 +374,7 @@ h2{
     max-width: 600px;
     height: auto;
     padding: 100px 40px;
-    margin-top: 660rem;
+    margin-top: 670rem;
     background-color: rgb(255, 255, 255);
 }
 
@@ -384,11 +384,11 @@ h2{
     display: block;
     width: 320px;
     max-width: 500px;
-    height: 30px;
+    height: 60px;
     margin: 0 auto;
     padding: 2px 20px;
     left: calc(50% - 161px);
-    top: calc(100% - 73px);
+    top: calc(100% - 95px);
     /*Textos*/
     font-size: 1.3rem;
     font-weight: 700;
@@ -493,7 +493,7 @@ h2{
     height: auto;
     padding: 20px 10px;
     margin-top: 565rem;
-    background-color: rgb(157, 168, 157);
+    background-color: rgb(178, 192, 178);
 }
 
 .info-detail--title .backgroundImg-6{
