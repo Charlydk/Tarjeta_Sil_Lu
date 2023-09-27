@@ -28,7 +28,7 @@ html{
 }
 
 body{
-    background-color: rgb(241, 236, 236);
+    background-color: rgb(255, 255, 255);
 }
 
 
@@ -265,7 +265,7 @@ h2{
     height: auto;
     padding: 20px 10px;
     margin-top: 234rem;
-    background-color: rgb(241, 236, 236);
+    background-color: rgb(255, 255, 255);
 }
 
 
@@ -374,8 +374,8 @@ h2{
     max-width: 600px;
     height: auto;
     padding: 100px 40px;
-    margin-top: 587rem;
-    background-color: rgb(157, 168, 157);
+    margin-top: 660rem;
+    background-color: rgb(255, 255, 255);
 }
 
 
@@ -465,7 +465,7 @@ h2{
     height: auto;
     padding: 20px 10px;
     margin-top: 468rem;
-    background-color: rgb(241, 236, 236);
+    background-color: rgb(255, 255, 255);
 }
 
 .info-detail--title .backgroundImg-5{
@@ -485,3 +485,30 @@ h2{
     border-radius: 80px;
 }
 
+
+.main-info--container--6{
+    position: absolute;
+    width: 100%;
+    min-width: 320px;
+    height: auto;
+    padding: 20px 10px;
+    margin-top: 565rem;
+    background-color: rgb(157, 168, 157);
+}
+
+.info-detail--title .backgroundImg-6{
+    display: inline-block;
+    align-items: center;
+    width: 301px;
+    max-width: 320px;
+    height: 300px;
+    max-height: 300px;
+    margin: 10px 0 auto;
+    margin-bottom: 50px;
+    background-image: url("../img/ropa_traje_vestido.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 100px;
+    border-radius: 80px;
+}
