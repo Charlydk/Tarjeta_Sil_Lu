@@ -117,7 +117,7 @@ main{
 
 .main-exchange-container .backgroundImg {
     width: 100%;
-    height: 400px;
+    height: 416px;
     margin: 0 auto;
     margin-bottom: 50px;
     background-image: url("../img/Preboda\ AlmadaMolina-32.jpg");
@@ -138,7 +138,7 @@ main{
     top: calc(100% - 132px);
     margin: 0 auto;
     padding: 2px 20px;
-    background-color: #ddc387;
+    background-color: #e7d6af;
     border: 3px solid rgb(46, 45, 45);
     border-radius: 100px;
     cursor: pointer;
@@ -173,7 +173,7 @@ h2{
     padding: 0.2rem;
     text-align: center;
     font-weight: 300;
-    text-shadow: -2px -1px 13px rgb(255, 255, 255);
+    
 }
 
 .countDown span{
@@ -183,7 +183,7 @@ h2{
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
-    text-shadow: -2px -1px 13px rgb(255, 255, 255);
+   
 }
 
 .main-button-asists--container{
@@ -191,19 +191,18 @@ h2{
     display: block;
     width: 750px;
     max-width: 375px;
-    height: 77px;
+    height: 87px;
     margin: 0 auto;
     padding: 2px 20px;
     left: calc(50% - 189px);
     top: calc(100% - -9px);
     /*Textos*/
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-weight: 500px;
     letter-spacing: 2px;
     border-radius: 100px;
     border: 3px solid rgb(46, 45, 45);
-    cursor: pointer;
-    background-color: #ddc387;;
+    background-color: #e7d6af;;;
     box-shadow: 0 8px 10px -6px rgba(32,32,32,.75);
 }
 
@@ -222,22 +221,22 @@ h2{
     min-width: 320px;
     height: auto;
     padding: 20px 10px;
-    margin-top: 108rem;
+    margin-top: 119rem;
     background-color: rgb(209, 216, 209);
 }
 
 .info-detail--title h2{
-    font-size: 3.6rem;
+    font-size: 4rem;
     font-weight: bold;
-    line-height: 3.5rem;
+    line-height: 2.5rem;
     text-align: center;
     /* text-shadow: -2px -1px 13px black; */
 }
 
 .info-detail--title p{
     margin-top: 15px;
-    font-size: 1.5rem;
-    font-weight: 300;
+    font-size: 2rem;
+    font-weight: bold;
     color: rgb(0, 0, 0);
     /* text-shadow: -2px -1px 13px black; */
 }
@@ -265,7 +264,7 @@ h2{
     min-width: 320px;
     height: auto;
     padding: 20px 10px;
-    margin-top: 225rem;
+    margin-top: 234rem;
     background-color: rgb(241, 236, 236);
 }
 
@@ -324,7 +323,7 @@ h2{
     min-width: 320px;
     height: auto;
     padding: 20px 10px;
-    margin-top: 344rem;
+    margin-top: 347rem;
     background-color: rgb(157, 168, 157);
 }
 
@@ -375,7 +374,7 @@ h2{
     max-width: 600px;
     height: auto;
     padding: 100px 40px;
-    margin-top: 561rem;
+    margin-top: 587rem;
     background-color: rgb(157, 168, 157);
 }
 
@@ -465,7 +464,7 @@ h2{
     min-width: 320px;
     height: auto;
     padding: 20px 10px;
-    margin-top: 463rem;
+    margin-top: 468rem;
     background-color: rgb(241, 236, 236);
 }
 
