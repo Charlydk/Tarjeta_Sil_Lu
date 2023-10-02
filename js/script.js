@@ -118,17 +118,42 @@ let interval = setInterval(function(){
 
 var myMusic= document.getElementById("music");
 
-function play() {
 
+
+function play() {
 myMusic.play();
 
 }
 
  
-
 function pause() {
-
 myMusic.pause();
 
 }
 
+
+
+
+// confirm("qweqwe")
+
+// if (confirm) {
+//   play()
+  
+// } else {
+  
+// }
+
+
+
+// const playSound = function() {
+ 
+//   play();
+//   document.removeEventListener('click', playSound);
+// }
+// document.addEventListener('click', playSound);
+
+
+
+// let isBoss = confirm("¿Eres el jefe?");
+
+// playSound
