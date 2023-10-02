@@ -407,10 +407,8 @@ h2{
     box-shadow: 0 8px 10px -6px rgba(32,32,32,.75);
 }
 
-.slider{
-    border-radius: 10%;
-    background-color: rgb(0, 0, 0);
-}
+
+
 
 .main-button-asists--container--5{
     position: absolute;
@@ -440,6 +438,11 @@ h2{
     padding: 35px 0;
 }
 
+.slider{
+    border-radius: 10%;
+    background-color: rgb(0, 0, 0);
+}
+
 .slider ul {
 	display: flex;
 	padding: 0;
@@ -455,6 +458,7 @@ h2{
 
 .slider img {
 	width: 100%;
+    transform: scale(1.0);
 }
 
 @keyframes cambio {
@@ -525,6 +529,32 @@ h2{
     border-radius: 80px;
 }
 
+
+
+.main-info--container--7{
+    position: absolute;
+    width: 100%;
+    min-width: 100px;
+    height: auto;
+    padding: 20px 20px;
+    margin: 10px;
+    margin-top: 760rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background: #000000;
+    color: #333;
+}
+
+.main-info--container--7 h2{
+    line-height: 1.5rem;
+    color: rgb(177, 160, 11);
+    font-family: 'Great Vibes', cursive;
+    display: flex;
+    justify-content:center;
+    text-shadow: 5px 5px 2px rgba(170, 164, 164, 0.404);
+    
+}
 
 
 
@@ -603,3 +633,5 @@ h2{
 		right: 5px;
 	}
 } 
+
+
